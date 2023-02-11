@@ -1,2 +1,3 @@
-# davinci_scripting
-A repository for scripts of Davinci Resolve
+# Scripts for DaVinci Resolve 18.1
+
+I try to generate custom telemetry overlay using python scripts in DaVinci Resolve. So, let's go 😀
